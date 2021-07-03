@@ -40,5 +40,24 @@
       "clue": "As you drive away, where adventures abound, you sit in the back, look what you've found?",
       "op": "-",
       "key": 47
+    },
+    {
+      "spot": "In the bathtub of the old bathroom.",
+      "clue": "As you sit on the toilet among daddy longlegses, a suprise awaits you behind the curtain.",
+      "op": "/",
+      "key": 3
+    },
+    {
+      "spot": "Inside the old chicken coop.",
+      "clue": "A mystery may be revealed, where Waffles and Pecker lived.",
+      "op": "+",
+      "key": 11
+    },
+    {
+      "spot": "Inside the otoman next to guinea pigs.",
+      "clue": "Unaware of the treasure beneath you, you're tired, you sit down and watch guinea pigs pop-corn.",
+      "op": "-",
+      "key": 357
     }
+
   ]
