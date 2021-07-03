@@ -1,0 +1,27 @@
+
+  [
+    {
+      "spot": "In a drawer under the bed.",
+      "clue": "Under the bed where you sleep for the night, find the clue that guides you to light.",
+      "op": "none",
+      "key": 0
+    },    
+    {
+      "spot": "Under the cooktop.",
+      "clue": "Where the pancakes are made and the soup is cooked, that's the place you should have looked.",
+      "op": "+",
+      "key": 10
+    },    
+    {
+      "spot": "Inside old broken freezer.",
+      "clue": "A cold spot, all broken, cold is no more, however the place has misteries galore.",
+      "op": "+",
+      "key": 2
+    },
+    {
+      "spot": "In a corner behind Julia's bed.",
+      "clue": "As Julia sleeps, dreams to remind her, a secret spot, in the corner behind her.",
+      "op": "-",
+      "key": 13
+    }
+  ]
