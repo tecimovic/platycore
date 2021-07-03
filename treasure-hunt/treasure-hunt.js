@@ -43,6 +43,8 @@ needs to contain following data:
   "op" - operation. Currently supported: "none", -, +, /, *
   "key" - number that is used by the operation.
 
+See JSON files along with it for examples.
+
 This program will print out the instructions for the parent where
 to put the clues and the clues themselves. You should probably
 copy these into google doc or something and decorate them a bit...

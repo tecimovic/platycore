@@ -30,8 +30,8 @@
       "key": 2
     },
     {
-      "spot": "In the closet next to the coat rack.",
-      "clue": "You leave the coat on the rack, wondering, what secrets the closet might be hiding.",
+      "spot": "Hidden behind coats on the coat rack.",
+      "clue": "You leave the coat on the rack, not thinking of secrets in the back.",
       "op": "+",
       "key": 23
     },
@@ -43,13 +43,13 @@
     },
     {
       "spot": "In the bathtub of the old bathroom.",
-      "clue": "As you sit on the toilet among daddy longlegses, a suprise awaits you behind the curtain.",
+      "clue": "Where shower doesn't run any more, open the curtain see daddy longlegses galore.",
       "op": "/",
       "key": 3
     },
     {
       "spot": "Inside the old chicken coop.",
-      "clue": "A mystery may be revealed, where Waffles and Pecker lived.",
+      "clue": "A mystery may be revealed right inside, where Waffles and Pecker ghosts still hide.",
       "op": "+",
       "key": 11
     },
@@ -59,5 +59,4 @@
       "op": "-",
       "key": 357
     }
-
   ]
