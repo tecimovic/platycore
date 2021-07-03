@@ -37,7 +37,7 @@
     },
     {
       "spot": "Inside the black car.",
-      "clue": "As you drive away, where adventures abound, you sit in the back, look what you've found?",
+      "clue": "You could drive away, where adventures abound, you sit in the back, look what you've found!",
       "op": "-",
       "key": 47
     },
@@ -55,7 +55,7 @@
     },
     {
       "spot": "Inside the otoman next to guinea pigs.",
-      "clue": "Unaware of the treasure beneath you, you're tired, you sit down and watch guinea pigs pop-corn.",
+      "clue": "Unaware of the treasure that's under, you sit down and watch guinea pigs blunder.",
       "op": "-",
       "key": 357
     }

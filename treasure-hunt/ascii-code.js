@@ -43,7 +43,8 @@ let input = process.argv[2]
 let hunt = JSON.parse(fs.readFileSync(input))
 
 console.log('Instructions for parent:')
-console.log(`  - clue 0 is given to the hunter.`)
+
+console.log(`  - clue 0 is given to the hunter along with ASCII table`)
 hunt.forEach((step, index) => {
   if (index == hunt.length - 1) {
     console.log(`  - final step is at: ${step.spot}`)
