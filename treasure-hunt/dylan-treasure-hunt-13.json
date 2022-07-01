@@ -1,0 +1,32 @@
+  [
+    {
+      "spot": "In the mailbox.",
+      "clue": "The letters, the postcards and treasures galore, end up in the box right by the door.",
+      "op": "none",
+      "key": 0
+    },
+    {
+      "spot": "Under the trampoline.",
+      "clue": "You jump and you bounce and you fly through the air, but treasure is hidden right under there.",
+      "op": "+",
+      "key": 23
+    },
+    {
+      "spot": "Under the red wagon.",
+      "clue": "Going dowh the hill, in the little red wagon, you're too big for it now, but underneath the treasures can be hidden.",
+      "op": "-",
+      "key": 157
+    },
+    {
+      "spot": "Toy microwave in the playhouse.",
+      "clue": "An old structure of wood, great for the kids, a little toy microware, hides some tricks.",
+      "op": "-",
+      "key": 387
+    },
+    {
+      "spot": "In the old chicken coop.",
+      "clue": "A home for the birds, stays all alone, old and abandoned, for they have a new home.",
+      "op": "/",
+      "key": 7
+    }
+  ]
